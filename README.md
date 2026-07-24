@@ -1,6 +1,10 @@
 # Black_Friday_DataAnalysis
 This project analyzes the Black Friday Sales dataset to uncover customer purchasing behavior and identify factors that influence sales. The analysis focuses on customer demographics, product categories, age groups, gender, occupation, city categories, and purchase amounts. The project includes data cleaning, and business insights using Pandas
 
+## 📖 Overview
+This project performs Exploratory Data Analysis (EDA) on the Black Friday Sales dataset to understand customer buying patterns and purchasing behavior. The goal is to generate meaningful business insights that can help retailers improve marketing strategies and increase sales.
+
+
 ## 🎯 Objectives
 
 - Clean and preprocess the dataset
